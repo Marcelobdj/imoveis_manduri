@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "title": "Casa Residencial no Centro",
+      "subtitle": "Linda casa com 1 suíte, 2 quartos e 3 banheiros.",
+      "img": "https://plantasdecasas.com/wp-content/uploads/2016/11/309-plantas-de-casas-fachadas-front.jpg",
+      "transaction": "Á Venda",
+      "type": "Casa",
+      "adress": "Rua Luiz Prandini, 1267",
+      "featured": "yes",
+      "id": 1
+    },
+    {
+      "title": "Terreno no Centro",
+      "subtitle": "Terreno de x m2 há suas quadras do Centro de Manduri",
+      "img": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvx3dbi9Nr1iw0yepBeKearAK10IOXt9iromC2wJXykr-A0fHteuSO7K1n%2B6jjI06ptIp3ReAVKE9mStFFQC3zBdaGYn5JhgOpqRnAcYF6W1hs1loQrjUAy1%2B5XKr2-ns22ieGV%2B-HjnCOUJC%2BJl1QPLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5%2BhxzlXFx5k9oa%2BSqu619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8%2B5wEDqv3JFhXchgzWgPAoc9j0QdpNmKUAiF7ESuBH7k-uw4HC0ab5aE6FOlU8oezOrfDjNfr0Tv2kOW%2BjjZwQ-5DXOc9SNrWnAXJAQHcyA2FWykexmaiMgRHmbjWd%2B20IG0PP3PN453o3LE8D8cMcuGy4gdjiPRLcH9SIgA5Wf5vw.jpg",
+      "transaction": "Á Venda",
+      "type": "Terreno na Área Urbana",
+      "adress": "Rua Rony Rústico, 10",
+      "featured": "no",
+      "id": 2
+    },
+    {
+      "title": "Padaria",
+      "subtitle": "Oportunidade de Negócio em padaria na zona central da cidade",
+      "img": "https://img.olx.com.br/images/85/850204908511357.jpg",
+      "transaction": "Á Venda",
+      "type": "Imóvel Comercial",
+      "adress": "Rua Raphael Veiga, 23",
+      "featured": "yes",
+      "id": 3
+    },
+    {
+      "title": "Sobrado no Residencial Julieta",
+      "subtitle": "Casa com 3 quartos e 3 banheiros, quintal e garagem",
+      "img": "https://i.ytimg.com/vi/3cF0acy8On0/hqdefault.jpg",
+      "transaction": "Para Locação",
+      "type": "Casa",
+      "adress": "Rua Abel Ferreira, 3",
+      "featured": "no",
+      "id": 4
+    },
+    {
+      "title": "Chácara com Piscina",
+      "subtitle": "Chácara com 2 suítes e 4 quartos, além 4 banheiros, piscina e churrasqueira",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_970654-MLB50185981260_062022-W.jpg",
+      "transaction": "Á Venda",
+      "type": "Terreno na Zona Rural",
+      "adress": "Rodovia Gustavo Gomez km 1914",
+      "featured": "yes",
+      "id": 5
+    },
+    {
+      "title": "Chácara dentro da cidade",
+      "subtitle": "Chácara com churrasqueira e piscina dentro da cidade de Manduri",
+      "img": "https://www.kimtelimobiliaria.com.br/tim.php?src=uploads/properties/2019/03/chacara-venda-penhinha-km-4-aruja-sp.jpg&w=1600&h=800",
+      "transaction": "Para Locação",
+      "type": "Terreno na Área Urbana",
+      "adress": "Rua Danilo da Silva, 6",
+      "featured": "no",
+      "id": 6
+    }
+  ]
+}
